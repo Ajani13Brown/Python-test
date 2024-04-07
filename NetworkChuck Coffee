@@ -1,0 +1,6 @@
+print("Hello, Welcome to No Starbucks Cofee!!!")
+name = input("what is your name?")
+print("Hello, " + name + " can i take your order?")
+menu = "Regular Coffee, Black Coffee, Chai latte and Nitro ColdBrew"
+order = input("Today our specals are " + menu + ". what will you be having?")
+print("No problem, Your " + order + " will be coming right up!")
